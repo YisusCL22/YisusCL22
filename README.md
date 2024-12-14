@@ -53,6 +53,6 @@
 - **Correo**: [jesus.alvarez@example.com](mailto:jesus.alvarez@example.com)
 - **LinkedIn**: [Jesús Álvarez](https://linkedin.com/in/jesusalvarez)
 - **GitHub**: [jesusalvarez](https://github.com/jesusalvarez)
-- **Portafolio**: En desarrollo con [Next.js](https://nextjs.org/) y [Tailwind CSS](https://tailwindcss.com/).
+- **Portafolio**: https://jesusalvarez.vercel.app/ Desarrollado con [Next.js](https://nextjs.org/) y [Tailwind CSS](https://tailwindcss.com/).
 
 ¡Gracias por visitar mi perfil! 😊
