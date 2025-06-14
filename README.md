@@ -9,20 +9,20 @@
 - 🎓 Actualmente en mi **último año de carrera**.
 - 🚀 Me enfoco en la investigación y desarrollo de proyectos relacionados con:
   - **IoT** y **IIoT** para la sostenibilidad ambiental.
-  - **Automatización industrial** y mejora de procesos con IA.
+  - **Automatización y modelado** de procesos.
   - **Desarrollo web y móvil** con tecnologías modernas como **Django**, **React.js**, **Flutter**, entre otros.
-  - **Modelado y simulación** de vehículos autónomos y sistemas inteligentes.
+  - **Creacion de soluciones en la nube** para servicios escalables.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 - **Lenguajes de programación**: Python, Java, JavaScript, C++, Dart, TypeScript.
-- **Frameworks**: Django, React.js, Flutter, Spring.
-- **Bases de datos**: PostgreSQL, SQLite.
-- **DevOps y contenedores**: Docker, Kubernetes, Linux (Red Hat).
-- **IA y aprendizaje automático**: TensorFlow, YOLOv5, procesamiento del lenguaje natural (NLP).
-- **Comunicación y protocolos**: MQTT, Bluetooth BLE, GSM, HTTP, MODBUS, TCP/IP.
-- **Herramientas de desarrollo**: Git, GitHub, Visual Studio Code, pgAdmin, Trello.
+- **Frameworks**: Django, React.js, Flutter, FastAPI.
+- **Bases de datos**: PostgreSQL, SQLite, BigQuery.
+- **DevOps y contenedores**: Docker, Artifact Registry.
+- **IA y aprendizaje automático**: TensorFlow, YOLOv5, procesamiento del lenguaje natural (NLP) con BART.
+- **Comunicación y protocolos**: MQTT, Bluetooth BLE, GSM, HTTP/s, MODBUS, TCP/IP.
+- **Herramientas de desarrollo**: Git, GitHub, Gitlab, Visual Studio Code, pgAdmin, Trello.
 
 ---
 
